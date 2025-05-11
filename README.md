@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on something cool
 - 📫 How to reach me david.kirk@mrdavidkirk.co.uk
 - 😄 Pronouns: Dude
-- ⚡ Fun fact: I'm probably ther olded computer nerd you will ever meet
+- ⚡ Fun fact: I'm probably the olded computer nerd you will ever meet
 
 <!---
 MrDavidKirk/MrDavidKirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
